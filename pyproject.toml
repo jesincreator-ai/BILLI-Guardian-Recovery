@@ -1,0 +1,8 @@
+[project]
+name = "billi-guardian-recovery"
+version = "1.0.0"
+description = "Offline fail-closed safety supervisor for BILLI R-20"
+requires-python = ">=3.8"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
